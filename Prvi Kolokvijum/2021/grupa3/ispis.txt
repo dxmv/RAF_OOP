@@ -1,0 +1,37 @@
+Test 1
+10
+1. (2) Ponudjeni odgovori 1?
+Prvi
+Drugi
+Treci
+
+
+2. (2) Ponudjeni odgovori 2?
+Prvi
+Drugi
+Treci
+Cetvrti
+
+
+3. (1) Slobodan odgovor 2?
+
+
+
+
+
+
+4. (1) Slobodan odgovor 1?
+
+
+
+
+5. (2)
+Pitanje ________ je ________ popuniti prvo 
+
+
+6. (2) Povezivanje 1
+Kolona 1          Kolona 2
+Kolona 1          Kolona 2
+
+
+Nije spremno
