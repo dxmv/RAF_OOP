@@ -1,0 +1,4 @@
+glasses, B)
+happy, :)
+sad, :(
+wink, ;)
