@@ -1,0 +1,8 @@
+Analiza trzista
+Trazenje potencijalnih klijenata
+Reklamiranje:Analiza trzista;Trazenje potencijalnih klijenata
+Podizanje baze podataka
+Dizajniranje korisnickog interfejsa
+Implementiranje rada sa podacima:Podizanje baze podataka
+Implementiranje korisnickog interfejsa:Dizajniranje korisnickog interfejsa
+Rucno testiranje:Podizanje baze podataka;Dizajniranje korisnickog interfejsa;Implementiranje korisnickog interfejsa;Implementiranje rada sa podacima
