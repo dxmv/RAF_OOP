@@ -1,0 +1,333 @@
+Racunarske komunikacije
+Milovic Njegovan;ČET;Raf3;15;18;Vezbe;2s1
+Radosavljevic Nemanja;SRE;Raf6;11;14;Predavanja;2s1 2s2 2s3
+Milovic Njegovan;UTO;Raf2;15;18;Vezbe;2s2
+Milovic Njegovan;UTO;Raf3;18;21;Vezbe;2s3
+Bezbednost mreza
+Bojovic Petar;UTO;Raf11;15;17;Predavanja;321 322
+Martinovic Nikola;UTO;Rg2;17;19;Vezbe;321 322
+Veb programiranje
+Vidakovic Milan;PET;Kolarac3;11;13;Predavanja;303 304a 304b 305 323
+Redzic Nikola Jovan;UTO;Raf5;9;11;Vezbe;303 305
+Redzic Nikola Jovan;SRE;Raf3;15;17;Vezbe;304a
+Antic Stefan;PON;Raf5;19;21;Vezbe;304b
+Antic Stefan;UTO;Raf-1;17;19;Vezbe;323
+Prostor i oblik
+Djuricic Ana;SRE;Raf15;11;14;Predavanja;1d1 1d2
+Jonic Teodora;UTO;Raf14;17;20;Vezbe;1d1 1d2
+Djuricic Ana;PON;Raf15;9;12;Predavanja;1d3 1d4
+Jonic Teodora;PET;Raf14;17;20;Vezbe;1d3 1d4
+Interakcija covek-racunar
+Mijatovic Igor;ČET;Raf4;13;15;Vezbe;2s1
+Vujosevic Dusan;PON;Raf6;11;13;Predavanja;2s1 2s2 2s3
+Mijatovic Igor;ČET;Raf4;11;13;Vezbe;2s2
+Mijatovic Igor;ČET;Raf4;9;11;Vezbe;2s3
+Vujosevic Dusan;SRE;Raf21;9;11;Predavanja;301 302 303 304a 304b 305 306 307 308
+Prvulovic Petar;SRE;Raf7;11;13;Vezbe;304a 302
+Prvulovic Petar;SRE;Raf7;13;15;Vezbe;304b 301 303
+Prvulovic Petar;PON;Raf2;9;11;Vezbe;305 307
+Prvulovic Petar;UTO;Raf3;9;11;Vezbe;306 308
+Tehnologije komutiranja
+Bojovic Petar;PET;Raf6;12;14;Predavanja;322 324
+Milovic Njegovan;PET;Raf2;14;16;Vezbe;322 324
+Algebra
+Zekic Mladen;SRE;Raf20;15;17;Predavanja;301 302 303 305 306 307
+Petrovic David;ČET;Kolarac1;14;16;Vezbe;301 302 303 305 306 307
+Zekic Mladen;ČET;Raf20;13;15;Predavanja;304a 304b 308
+Petrovic David;ČET;Raf6;17;19;Vezbe;304a 304b 308
+Neuronske mreze
+Vasiljevic Jelena;UTO;Raf21;15;17;Predavanja;323
+Petrovic Relja;PON;Raf3;13;15;Vezbe;323
+Administracija i odrzavanje sistema 2
+Lale Sinisa;PET;Raf3;9;12;P i V;1s1
+Lale Sinisa;PET;Raf3;12;15;P i V;1s1
+Lale Sinisa;ČET;Raf3;9;12;P i V;1s2
+Lale Sinisa;SRE;Raf3;12;15;P i V;1s2
+Kostadinovic Miodrag;PON;Raf2;13;16;P i V;1s3
+Kostadinovic Miodrag;SRE;Raf2;12;15;P i V;1s3
+Kostadinovic Miodrag;UTO;Raf2;12;15;P i V;1s4
+Kostadinovic Miodrag;ČET;Raf2;13;16;P i V;1s4
+Razvoj mobilnih aplikacija
+Budimac Stefan;PON;Raf6;15;17;Predavanja;304a 304b 305 308
+Budimac Stefan;ČET;Raf5;15;17;Vezbe;304a 308
+Redzic Nikola Jovan;PON;Raf5;17;19;Vezbe;304b
+Redzic Nikola Jovan;PET;Rg6;15;17;Vezbe;305
+Kodovanje i teorija informacija
+Vukotic Selena;SRE;Kolarac3;11;14;Predavanja;321 322 323 324
+Lukic Djordje;UTO;Raf11;19;21;Vezbe;322 324 321 323
+Tehnologije rutiranja
+Radivojevic Mirjana;PET;CET;9;11;Predavanja;321 322 324
+Milovic Njegovan;SRE;Raf5;14;16;Vezbe;321 322 324
+Multimedijalni racunarski sistemi 2
+Milic Andjela;ČET;Muzicki;16;19;Predavanja;4d1
+Ognjanovic Ivana;PON;Muzicki;12;15;Vezbe;4d1
+Milic Andjela;ČET;Muzicki;13;16;Predavanja;4d2
+Ognjanovic Ivana;SRE;Muzicki;13;16;Vezbe;4d2
+Multimedijalni racunarski sistemi 1
+Elezovic Ivan;PON;Raf8;17;20;Predavanja;3d1 3d2 3d3 3d9
+Elezovic Ivan;PON;Raf8;14;17;Predavanja;3d1 3d2 3d3 3d9
+Milic Andjela;UTO;Muzicki;15;18;Vezbe;3d1 3d9 3d5
+Milic Andjela;PET;Muzicki;11;14;Vezbe;3d2 3d3 3d7
+Elezovic Ivan;SUB;Raf8;12;15;Predavanja;3d4 3d5 3d6 3d7 3d8
+Elezovic Ivan;SRE;Raf8;14;17;Predavanja;3d4 3d5 3d6 3d7 3d8
+Milic Andjela;PET;Muzicki;14;17;Vezbe;3d4 3d6 3d8
+Namenski racunarski sistemi
+Karbunar Lazar;UTO;Kolarac3;9;12;Predavanja;421
+Imamovic Emir;ČET;Raf7;11;14;Vezbe;421
+Funkcionalno programiranje
+Dimic Surla Bojana;PON;Kolarac2;11;13;Predavanja;302 307 308
+Ciganovic Igor;SRE;Rg7;13;15;Vezbe;302 307 308
+Dizajn i informacione tehnologije 2
+Topuzovic Filip;UTO;Raf16;14;16;Vezbe;3d2 3d3 3d7
+Topuzovic Filip;UTO;Raf16;9;11;Predavanja;3d2 3d7 3d3
+Topuzovic Filip;UTO;Raf14;12;14;Vezbe;3d4 3d5 3d6 3d8 3d1 3d9
+Topuzovic Filip;PON;Raf14;10;12;Predavanja;3d4 3d5 3d6 3d8 3d9 3d1
+Integrisani informacioni sistemi
+Vujosevic Dusan;PON;Kolarac2;13;15;Predavanja;303 304a 304b
+Vasiljkovic Sanja;PON;Raf7;9;11;Vezbe;304a 303
+Vasiljkovic Sanja;UTO;Raf5;11;13;Vezbe;304b
+Osnovi informacionih tehnologija
+Sijacic Dusan;PON;Raf3;9;11;Vezbe;1s1
+Mirkovic Bogdan;SRE;Raf20;9;12;Predavanja;1s1 1s2
+Sijacic Dusan;PET;Rg7;13;15;Vezbe;1s2
+Sijacic Dusan;PET;Rg7;9;11;Vezbe;1s3
+Mirkovic Bogdan;SRE;Raf11;15;18;Predavanja;1s3 1s4
+Sijacic Dusan;PET;Rg7;11;13;Vezbe;1s4
+Razvoj infrastrukture i servisa u oblaku
+Martic Goran;PET;Raf2;9;12;Predavanja;3s2
+Preocanin Andjela;ČET;Raf5;17;19;Vezbe;3s2
+Pismeno i usmeno izrazavanje
+Markovic Mirjana;PET;Raf21;9;11;Vezbe;101 102 103
+Markovic Mirjana;ČET;Raf21;17;19;Vezbe;121 122 123 124
+Markovic Mirjana;PET;Raf21;11;13;Vezbe;125 126 127 128
+Markovic Mirjana;ČET;Raf6;14;16;Vezbe;1s1 1s2
+Markovic Mirjana;ČET;Raf21;11;13;Vezbe;1s3 1s4
+Istorija racunarstva
+Pilipovic Dragoljub;SRE;Raf9;14;16;Predavanja;3s1 3s2
+Masinsko ucenje
+Ilic Nemanja;PON;Raf6;13;15;Predavanja;301 302 305 307 308
+Ciganovic Igor;SRE;Rg7;11;13;Vezbe;301 305
+Matovic Vanja;PET;Raf3;19;21;Vezbe;302 307 308
+Poslovni softver
+Mijatovic Igor;PON;Raf4;13;16;P i V;1s1
+Mijatovic Igor;SRE;Raf4;14;16;P i V;1s1
+Mijatovic Igor;UTO;Raf4;12;15;P i V;1s2
+Mijatovic Igor;PON;Raf4;9;11;P i V;1s2
+Mijatovic Igor;SRE;Raf4;9;12;P i V;1s3
+Mijatovic Igor;PON;Raf4;11;13;P i V;1s3
+Mijatovic Igor;UTO;Raf4;9;12;P i V;1s4
+Mijatovic Igor;SRE;Raf4;12;14;P i V;1s4
+Zastita racunarske mreze pomocu mrezne barijere
+Lale Sinisa;PON;Rg7;9;12;P i V;3s1
+Lale Sinisa;UTO;Rg7;12;14;P i V;3s1
+Veb dizajn
+Topuzovic Filip;PET;Raf14;9;11;Predavanja;3d1 3d2 3d8 3d9
+Topuzovic Filip;PON;Raf14;12;14;Vezbe;3d1 3d2 3d8 3d9
+Interaktivna grafika
+Stojanovic Danica;ČET;Raf14;13;15;Predavanja;3d2 3d4 3d6 3d8
+Koturanovic Aleksandar;SRE;Raf14;12;14;Vezbe;3d2 3d4 3d6 3d8
+Softversko inzenjerstvo
+Radenkovic Milos;UTO;Raf6;9;12;Predavanja;401 402a 403 402b
+Mudrinic Marko;ČET;Rg6;17;20;Vezbe;401 402b
+Mudrinic Marko;PET;Raf7;12;15;Vezbe;403 402a
+Interfejs mozak
+Mladenovic Jelena;UTO;Raf7;11;13;Vezbe;306
+Mladenovic Jelena;PON;Raf20;9;11;Predavanja;306 321 323 324
+Mladenovic Jelena;UTO;Raf5;13;15;Vezbe;323 321 324
+Engleski 2
+Cuk Bojana;ČET;Kolarac3;17;19;Predavanja;101 102 103
+Cuk Bojana;PET;Raf21;13;15;Predavanja;121 122
+Cuk Bojana;ČET;Kolarac3;15;17;Predavanja;123 124
+Cuk Bojana;PET;Kolarac3;16;18;Predavanja;125 126
+Cuk Bojana;SRE;Raf11;13;15;Predavanja;127 128
+Cuk Bojana;SRE;Raf10;17;19;Vezbe;1d1 1d2 1d3 1d4
+Cuk Bojana;SRE;Raf10;15;17;Predavanja;1d1 1d2 1d3 1d4
+Vrbica-Matejic Vera;PET;Raf20;16;18;Predavanja;1s1 1s2
+Vrbica-Matejic Vera;PET;Raf20;14;16;Predavanja;1s3 1s4
+Elektronsko poslovanje
+Sijacic Dusan;UTO;Raf2;9;11;Vezbe;2s1
+Radenkovic Milos;PET;Raf6;9;12;Predavanja;2s1 2s2 2s3
+Sijacic Dusan;ČET;Raf7;9;11;Vezbe;2s2
+Sijacic Dusan;SRE;Rg7;9;11;Vezbe;2s3
+Kompresija podataka
+Vukotic Selena;ČET;Raf20;15;18;Predavanja;321 322 323 324
+Lukic Djordje;ČET;Raf11;18;20;Vezbe;322 324 321 323
+Kriptografija
+Urosevic Dragan;UTO;Raf21;11;13;Predavanja;301 307
+Urosevic Dragan;PON;Raf3;15;17;Vezbe;301 307
+Arhitektura racunara
+Gagrica Branko;PET;Raf4;17;19;Vezbe;221
+Karbunar Lazar;UTO;Kolarac3;12;14;Predavanja;221 222 223
+Gagrica Branko;PET;Raf3;15;17;Vezbe;222
+Gagrica Branko;PON;Raf-1;15;17;Vezbe;223
+Matematicka analiza
+Jovanovic Irena;ČET;Raf21;13;15;Predavanja;101 102 103
+Jerotijevic Marija;SRE;Raf21;14;17;Vezbe;101 102 103
+Jovanovic Irena;SRE;Kolarac2;16;18;Predavanja;121 122 123 124
+Jerotijevic Marija;SRE;Raf21;18;21;Vezbe;121 122 123 124
+Jovanovic Irena;ČET;Kolarac3;11;13;Predavanja;125 126 127 128
+Jerotijevic Marija;PET;Kolarac3;13;16;Vezbe;125 126 127 128
+Teorija algoritama, automata i jezika
+Tomic Milan;SRE;Kolarac2;12;16;Predavanja;401 402a 403 402b
+Petrovic Relja;PON;Raf21;9;12;Vezbe;401 402a 403 402b
+Racunarske mreze
+Milovic Njegovan;SRE;Raf2;16;19;Vezbe;201
+Babic Djorde;PON;Kolarac2;15;18;Predavanja;201 202 203
+Milovic Njegovan;ČET;Raf3;18;21;Vezbe;202
+Galic Luka;SRE;Rg6;18;21;Vezbe;203
+Galic Luka;UTO;Raf7;18;21;Vezbe;204
+Babic Djorde;PET;Raf20;11;14;Predavanja;204 205
+Galic Luka;PET;Raf5;17;20;Vezbe;205
+Pernar Veljko;SRE;Raf5;11;14;Vezbe;221
+Stanojevic Mladen;PON;Raf6;17;20;Predavanja;221 222 223
+Pernar Veljko;PET;Rg7;17;20;Vezbe;222
+Pernar Veljko;SRE;Raf5;17;20;Vezbe;223
+Uvod u bioinformatiku
+Rakocevic Goran;PON;Raf3;11;13;Predavanja;303 306
+Dotlic Emilija;PET;Rg6;17;19;Vezbe;303 306
+Digitalna obrada signala
+Babic Djorde;PON;Raf20;11;15;Predavanja;421
+Sandic-Stankovic Dragana;PON;Raf3;17;20;Vezbe;421
+Primenjeni distribuirani sistemi
+Babovic Zoran;ČET;Rg4;17;20;Predavanja;421
+Babovic Zoran;ČET;Rg2;15;17;Vezbe;421
+Film 2
+Spasic Nikola;ČET;Raf13;11;13;Predavanja;3d3 3d5 3d6 3d9
+Stetin Darko;SRE;Raf16;17;19;Vezbe;3d3 3d5 3d6 3d9
+Prakticne tehnike zastite u IP mrezama
+Bojovic Petar;PET;Raf6;14;17;Predavanja;3s1
+Milovic Njegovan;PET;Raf3;17;19;Vezbe;3s1
+Ilustracija u digitalnoj umetnosti
+Stojanovic Danica;SRE;Raf16;12;14;Predavanja;3d1 3d3 3d5 3d7
+Stojanovic Visnja;ČET;Raf16;13;15;Vezbe;3d1 3d3 3d5 3d7
+Operativni sistemi
+Prokic Aleksa;PET;Raf2;16;19;Vezbe;201
+Stanojevic Mladen;UTO;Raf6;12;15;Predavanja;201 202 203
+Prokic Aleksa;SRE;Raf7;15;18;Vezbe;202
+Jovanovic Mladen;UTO;Raf3;15;18;Vezbe;203
+Jovanovic Mladen;SRE;Rg7;18;21;Vezbe;204
+Stanojevic Mladen;UTO;Raf6;15;18;Predavanja;204 205
+Bojic Milan;PON;Raf11;16;19;Vezbe;205
+Bojic Milan;SRE;Rg2;17;20;Vezbe;221
+Stanojevic Mladen;SRE;Raf6;14;17;Predavanja;221 222 223
+Kovinic Vanja;SRE;Raf3;17;20;Vezbe;222
+Kovinic Vanja;PET;Raf-1;16;19;Vezbe;223
+Digitalne komunikacije
+Vukotic Selena;UTO;Raf20;14;17;Predavanja;221 222 223
+Lukic Djordje;UTO;Raf20;17;19;Vezbe;221 222 223
+Upravljanje i odrzavanje Windows Server okruzenja
+Lale Sinisa;UTO;Rg7;9;12;P i V;3s1
+Lale Sinisa;PON;Rg7;12;14;P i V;3s1
+Oblikovanje enterijera
+Telarovic Rosana;SRE;Raf14;9;12;Predavanja;2d1 2d2
+Djuricic Ana;SRE;Raf14;14;16;Vezbe;2d1 2d2
+Djuricic Ana;PON;Raf16;12;14;Vezbe;2d3
+Telarovic Rosana;PON;Raf16;9;12;Predavanja;2d3
+Konkurentni i distribuirani sistemi
+Stanojevic Sofija;SRE;Raf2;9;12;Vezbe;401
+Stanojevic Mladen;PON;Raf21;12;15;Predavanja;401 402a 403 402b
+Stanojevic Sofija;UTO;Raf7;13;16;Vezbe;402a 402b
+Stanojevic Sofija;PET;Raf7;15;18;Vezbe;403
+3D animacija
+Rubil Goran;ČET;Raf14;9;13;Predavanja;4d1 4d2
+Rubil Goran;UTO;Raf14;9;12;Vezbe;4d1 4d2
+Digitalni video
+Spasic Nikola;SRE;Raf16;10;12;Predavanja;3d3 3d4 3d7 3d8
+Stetin Darko;PET;Raf16;17;19;Vezbe;3d3 3d4 3d7 3d8
+Film i multimedija
+Spasic Nikola;SRE;Raf14;16;19;Predavanja;4d1 4d2
+Stetin Darko;PON;Raf14;17;20;Vezbe;4d1 4d2
+Muzicka produkcija 2
+Ognjanovic Ivana;PON;Muzicki;9;12;Vezbe;2d1
+Elezovic Ivan;SRE;Raf8;17;20;Predavanja;2d1 2d2 2d3
+Elezovic Ivan;PET;Raf8;17;20;Predavanja;2d1 2d2 2d3
+Ognjanovic Ivana;UTO;Muzicki;18;21;Vezbe;2d2
+Ognjanovic Ivana;UTO;Muzicki;12;15;Vezbe;2d3
+Razvoj web aplikacija i servisa
+Pilipovic Dragoljub;SRE;Raf9;16;19;Predavanja;3s2
+Markovic Nemanja;ČET;Raf7;19;21;Vezbe;3s2
+Muzicka produkcija 1
+Milic Andjela;PON;Muzicki;15;18;Vezbe;1d1
+Elezovic Ivan;ČET;Raf8;14;17;Predavanja;1d1 1d2
+Elezovic Ivan;ČET;Raf8;17;20;Predavanja;1d1 1d2
+Milic Andjela;PON;Muzicki;18;21;Vezbe;1d2
+Milic Andjela;UTO;Muzicki;9;12;Vezbe;1d3
+Elezovic Ivan;SUB;Raf8;9;12;Predavanja;1d3 1d4
+Elezovic Ivan;PET;Raf8;14;17;Predavanja;1d3 1d4
+Milic Andjela;ČET;Muzicki;10;13;Vezbe;1d4
+Baze podataka
+MarkovicAna;ČET;Raf3;12;14;Vezbe;201
+Popovic Snezana;SRE;Raf20;12;15;Predavanja;201 202 203
+MarkovicAna;SRE;Raf3;10;12;Vezbe;202
+MarkovicAna;SRE;Rg7;15;17;Vezbe;203
+MarkovicAna;ČET;Raf7;14;16;Vezbe;204
+Popovic Snezana;SRE;Kolarac3;15;18;Predavanja;204 205
+MarkovicAna;ČET;Raf7;16;18;Vezbe;205
+Pismo i tipografija
+Stojanovic Danica;UTO;Raf14;14;17;Vezbe;2d1 2d2
+Stojanovic Danica;ČET;Raf15;15;17;Predavanja;2d1 2d2 2d3
+Stojanovic Danica;SRE;Raf16;14;17;Vezbe;2d3
+Istorija moderne umetnosti
+Stankovic Maja;ČET;Raf10;19;21;P i V;2d1 2d2 2d3
+Stankovic Maja;ČET;Raf10;17;19;P i V;2d1 2d2 2d3
+Objektno-orijentisano programiranje
+Tomic Milan;ČET;Raf2;11;13;Vezbe;101
+Stojanovic Mihajlo;SRE;Raf-1;17;19;Demonstracije;101
+Dimic Surla Bojana;PON;Kolarac3;9;11;Predavanja;101 102 103
+Tomic Milan;PET;Raf2;12;14;Vezbe;102
+Stojanovic Mihajlo;PET;Raf4;14;16;Demonstracije;102
+Tomic Milan;ČET;Raf-1;15;17;Vezbe;103
+Stojanovic Mihajlo;PET;Raf4;12;14;Demonstracije;103
+Bakic Milica;UTO;Raf7;9;11;Vezbe;121
+Redzic Nikola Jovan;ČET;Raf2;19;21;Demonstracije;121
+Dimic Surla Bojana;PON;Kolarac3;14;16;Predavanja;121 122 123 124
+Matovic Vanja;ČET;Rg7;19;21;Vezbe;122
+Redzic Nikola Jovan;ČET;Rg7;15;17;Demonstracije;122
+Bakic Milica;PON;Raf2;11;13;Vezbe;123
+Dejanovic Lazar;ČET;Raf-1;13;15;Demonstracije;123
+Matovic Vanja;ČET;Raf5;13;15;Vezbe;124
+Dejanovic Lazar;ČET;Rg7;11;13;Demonstracije;124
+Bakic Milica;ČET;Raf5;9;11;Vezbe;125
+Jovanovic Mladen;PON;Raf7;16;18;Demonstracije;125
+Dimic Surla Bojana;ČET;Kolarac3;13;15;Predavanja;125 126 127 128
+Najdic Jefimija;PON;Raf2;16;18;Vezbe;126
+Jovanovic Mladen;PET;Rg2;18;20;Demonstracije;126
+Najdic Jefimija;ČET;Rg6;15;17;Vezbe;127
+Radenkovic Zarko;ČET;Rg7;9;11;Demonstracije;127
+Najdic Jefimija;ČET;Raf-1;17;19;Vezbe;128
+Radenkovic Zarko;PET;Rg2;16;18;Demonstracije;128
+Programiranje web aplikacija
+Radosavljevic Nemanja;ČET;Raf5;11;13;Predavanja;2s1
+Prvulovic Petar;UTO;Raf3;12;15;Vezbe;2s1
+Radosavljevic Nemanja;SRE;Raf7;9;11;Predavanja;2s2
+Prvulovic Petar;PON;Raf7;13;16;Vezbe;2s2
+Radosavljevic Nemanja;ČET;Rg7;13;15;Predavanja;2s3
+Prvulovic Petar;UTO;Rg7;15;18;Vezbe;2s3
+Genetski algoritmi
+Vasiljevic Jelena;UTO;Raf21;13;15;Predavanja;301 302 306
+Tomic Milan;PET;Rg7;15;17;Vezbe;301 302 306
+Multimedijalni projekti 2
+Kukic  Rastko;ČET;Raf14;18;20;Predavanja;3d1 3d4 3d5 3d6 3d9
+Kukic  Rastko;ČET;Raf16;15;17;Predavanja;3d2 3d7
+Jonic Teodora;ČET;Raf16;18;20;Vezbe;3d2 3d7
+Jonic Teodora;ČET;Raf14;16;18;Vezbe;3d4 3d5 3d6 3d9 3d1
+Dizajn i analiza algoritama
+Urosevic Dragan;UTO;Raf21;9;11;Predavanja;201 202 203
+Jevtic Ivan;PON;Raf20;19;21;Vezbe;201 202 203
+Urosevic Dragan;PON;Raf11;19;21;Predavanja;204 205
+Trajkovic Mihailo;PET;Raf21;15;17;Vezbe;204 205
+Osnovi racunarskih sistema
+Prvulovic Petar;PON;Kolarac3;11;13;Vezbe;101 102 103
+Karbunar Lazar;SRE;Raf21;11;14;Predavanja;101 102 103
+Jovanovic Milos;PET;Raf21;17;20;Predavanja;121 122 123 124
+Prvulovic Petar;PON;Kolarac3;16;18;Vezbe;121 122 123 124
+Jovanovic Milos;PON;Raf21;18;21;Predavanja;125 126 127 128
+Prvulovic Petar;SRE;Kolarac3;9;11;Vezbe;125 126 127 128
+Ilustracija
+Djuric Milan;ČET;Raf15;11;14;Predavanja;1d1 1d2
+Stojanovic Visnja;PET;Raf14;14;17;Vezbe;1d1 1d2
+Djuric Milan;UTO;Raf15;14;17;Predavanja;1d3 1d4
+Stojanovic Visnja;PON;Raf14;14;17;Vezbe;1d3 1d4
+Microsoft tehnologije za pristup podacima
+Milosavljevic Milos;PET;Raf5;14;17;P i V;3s2
+Milosavljevic Milos;PET;Raf5;12;14;P i V;3s2
