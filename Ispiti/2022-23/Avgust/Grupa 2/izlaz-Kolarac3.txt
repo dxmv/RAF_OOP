@@ -1,0 +1,16 @@
+Dimic Surla Bojana Objektno-orijentisano programiranje Predavanja PON 9 - 11
+Prvulovic Petar Osnovi racunarskih sistema Vezbe PON 11 - 13
+Dimic Surla Bojana Objektno-orijentisano programiranje Predavanja PON 14 - 16
+Prvulovic Petar Osnovi racunarskih sistema Vezbe PON 16 - 18
+Karbunar Lazar Namenski racunarski sistemi Predavanja UTO 9 - 12
+Karbunar Lazar Arhitektura racunara Predavanja UTO 12 - 14
+Prvulovic Petar Osnovi racunarskih sistema Vezbe SRE 9 - 11
+Vukotic Selena Kodovanje i teorija informacija Predavanja SRE 11 - 14
+Popovic Snezana Baze podataka Predavanja SRE 15 - 18
+Jovanovic Irena Matematicka analiza Predavanja ČET 11 - 13
+Dimic Surla Bojana Objektno-orijentisano programiranje Predavanja ČET 13 - 15
+Cuk Bojana Engleski 2 Predavanja ČET 15 - 17
+Cuk Bojana Engleski 2 Predavanja ČET 17 - 19
+Vidakovic Milan Veb programiranje Predavanja PET 11 - 13
+Jerotijevic Marija Matematicka analiza Vezbe PET 13 - 16
+Cuk Bojana Engleski 2 Predavanja PET 16 - 18

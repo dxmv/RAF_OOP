@@ -1,0 +1,352 @@
+Babovic Zoran
+Primenjeni distribuirani sistemi,Predavanja,ČET,Rg4,17-20,421
+Primenjeni distribuirani sistemi,Vezbe,ČET,Rg2,15-17,421
+Rubil Goran
+3D animacija,Predavanja,ČET,Raf14,9-13,4d1 4d2
+3D animacija,Vezbe,UTO,Raf14,9-12,4d1 4d2
+Lale Sinisa
+Administracija i odrzavanje sistema 2,P i V,PET,Raf3,9-12,1s1
+Administracija i odrzavanje sistema 2,P i V,PET,Raf3,12-15,1s1
+Administracija i odrzavanje sistema 2,P i V,ČET,Raf3,9-12,1s2
+Administracija i odrzavanje sistema 2,P i V,SRE,Raf3,12-15,1s2
+Upravljanje i odrzavanje Windows Server okruzenja,P i V,UTO,Rg7,9-12,3s1
+Upravljanje i odrzavanje Windows Server okruzenja,P i V,PON,Rg7,12-14,3s1
+Zastita racunarske mreze pomocu mrezne barijere,P i V,PON,Rg7,9-12,3s1
+Zastita racunarske mreze pomocu mrezne barijere,P i V,UTO,Rg7,12-14,3s1
+Galic Luka
+Racunarske mreze,Vezbe,SRE,Rg6,18-21,203
+Racunarske mreze,Vezbe,UTO,Raf7,18-21,204
+Racunarske mreze,Vezbe,PET,Raf5,17-20,205
+Radosavljevic Nemanja
+Programiranje web aplikacija,Predavanja,ČET,Raf5,11-13,2s1
+Racunarske komunikacije,Predavanja,SRE,Raf6,11-14,2s1 2s2 2s3
+Programiranje web aplikacija,Predavanja,SRE,Raf7,9-11,2s2
+Programiranje web aplikacija,Predavanja,ČET,Rg7,13-15,2s3
+Vujosevic Dusan
+Interakcija covek-racunar,Predavanja,PON,Raf6,11-13,2s1 2s2 2s3
+Interakcija covek-racunar,Predavanja,SRE,Raf21,9-11,301 302 303 304a 304b 305 306 307 308
+Integrisani informacioni sistemi,Predavanja,PON,Kolarac2,13-15,303 304a 304b
+Stankovic Maja
+Istorija moderne umetnosti,P i V,ČET,Raf10,19-21,2d1 2d2 2d3
+Istorija moderne umetnosti,P i V,ČET,Raf10,17-19,2d1 2d2 2d3
+Petrovic Relja
+Neuronske mreze,Vezbe,PON,Raf3,13-15,323
+Teorija algoritama, automata i jezika,Vezbe,PON,Raf21,9-12,401 402a 403 402b
+Milic Andjela
+Muzicka produkcija 1,Vezbe,PON,Muzicki,15-18,1d1
+Muzicka produkcija 1,Vezbe,PON,Muzicki,18-21,1d2
+Muzicka produkcija 1,Vezbe,UTO,Muzicki,9-12,1d3
+Muzicka produkcija 1,Vezbe,ČET,Muzicki,10-13,1d4
+Multimedijalni racunarski sistemi 1,Vezbe,UTO,Muzicki,15-18,3d1 3d9 3d5
+Multimedijalni racunarski sistemi 1,Vezbe,PET,Muzicki,11-14,3d2 3d3 3d7
+Multimedijalni racunarski sistemi 1,Vezbe,PET,Muzicki,14-17,3d4 3d6 3d8
+Multimedijalni racunarski sistemi 2,Predavanja,ČET,Muzicki,16-19,4d1
+Multimedijalni racunarski sistemi 2,Predavanja,ČET,Muzicki,13-16,4d2
+Mirkovic Bogdan
+Osnovi informacionih tehnologija,Predavanja,SRE,Raf20,9-12,1s1 1s2
+Osnovi informacionih tehnologija,Predavanja,SRE,Raf11,15-18,1s3 1s4
+Urosevic Dragan
+Dizajn i analiza algoritama,Predavanja,UTO,Raf21,9-11,201 202 203
+Dizajn i analiza algoritama,Predavanja,PON,Raf11,19-21,204 205
+Kriptografija,Predavanja,UTO,Raf21,11-13,301 307
+Kriptografija,Vezbe,PON,Raf3,15-17,301 307
+Trajkovic Mihailo
+Dizajn i analiza algoritama,Vezbe,PET,Raf21,15-17,204 205
+Vukotic Selena
+Digitalne komunikacije,Predavanja,UTO,Raf20,14-17,221 222 223
+Kodovanje i teorija informacija,Predavanja,SRE,Kolarac3,11-14,321 322 323 324
+Kompresija podataka,Predavanja,ČET,Raf20,15-18,321 322 323 324
+Milosavljevic Milos
+Microsoft tehnologije za pristup podacima,P i V,PET,Raf5,14-17,3s2
+Microsoft tehnologije za pristup podacima,P i V,PET,Raf5,12-14,3s2
+Karbunar Lazar
+Osnovi racunarskih sistema,Predavanja,SRE,Raf21,11-14,101 102 103
+Arhitektura racunara,Predavanja,UTO,Kolarac3,12-14,221 222 223
+Namenski racunarski sistemi,Predavanja,UTO,Kolarac3,9-12,421
+Sijacic Dusan
+Osnovi informacionih tehnologija,Vezbe,PON,Raf3,9-11,1s1
+Osnovi informacionih tehnologija,Vezbe,PET,Rg7,13-15,1s2
+Osnovi informacionih tehnologija,Vezbe,PET,Rg7,9-11,1s3
+Osnovi informacionih tehnologija,Vezbe,PET,Rg7,11-13,1s4
+Elektronsko poslovanje,Vezbe,UTO,Raf2,9-11,2s1
+Elektronsko poslovanje,Vezbe,ČET,Raf7,9-11,2s2
+Elektronsko poslovanje,Vezbe,SRE,Rg7,9-11,2s3
+Lukic Djordje
+Digitalne komunikacije,Vezbe,UTO,Raf20,17-19,221 222 223
+Kodovanje i teorija informacija,Vezbe,UTO,Raf11,19-21,322 324 321 323
+Kompresija podataka,Vezbe,ČET,Raf11,18-20,322 324 321 323
+Stanojevic Mladen
+Operativni sistemi,Predavanja,UTO,Raf6,12-15,201 202 203
+Operativni sistemi,Predavanja,UTO,Raf6,15-18,204 205
+Operativni sistemi,Predavanja,SRE,Raf6,14-17,221 222 223
+Racunarske mreze,Predavanja,PON,Raf6,17-20,221 222 223
+Konkurentni i distribuirani sistemi,Predavanja,PON,Raf21,12-15,401 402a 403 402b
+Kostadinovic Miodrag
+Administracija i odrzavanje sistema 2,P i V,PON,Raf2,13-16,1s3
+Administracija i odrzavanje sistema 2,P i V,SRE,Raf2,12-15,1s3
+Administracija i odrzavanje sistema 2,P i V,UTO,Raf2,12-15,1s4
+Administracija i odrzavanje sistema 2,P i V,ČET,Raf2,13-16,1s4
+Ilic Nemanja
+Masinsko ucenje,Predavanja,PON,Raf6,13-15,301 302 305 307 308
+MarkovicAna
+Baze podataka,Vezbe,ČET,Raf3,12-14,201
+Baze podataka,Vezbe,SRE,Raf3,10-12,202
+Baze podataka,Vezbe,SRE,Rg7,15-17,203
+Baze podataka,Vezbe,ČET,Raf7,14-16,204
+Baze podataka,Vezbe,ČET,Raf7,16-18,205
+Babic Djorde
+Racunarske mreze,Predavanja,PON,Kolarac2,15-18,201 202 203
+Racunarske mreze,Predavanja,PET,Raf20,11-14,204 205
+Digitalna obrada signala,Predavanja,PON,Raf20,11-15,421
+Sandic-Stankovic Dragana
+Digitalna obrada signala,Vezbe,PON,Raf3,17-20,421
+Redzic Nikola Jovan
+Objektno-orijentisano programiranje,Demonstracije,ČET,Raf2,19-21,121
+Objektno-orijentisano programiranje,Demonstracije,ČET,Rg7,15-17,122
+Veb programiranje,Vezbe,UTO,Raf5,9-11,303 305
+Veb programiranje,Vezbe,SRE,Raf3,15-17,304a
+Razvoj mobilnih aplikacija,Vezbe,PON,Raf5,17-19,304b
+Razvoj mobilnih aplikacija,Vezbe,PET,Rg6,15-17,305
+Gagrica Branko
+Arhitektura racunara,Vezbe,PET,Raf4,17-19,221
+Arhitektura racunara,Vezbe,PET,Raf3,15-17,222
+Arhitektura racunara,Vezbe,PON,Raf-1,15-17,223
+Prokic Aleksa
+Operativni sistemi,Vezbe,PET,Raf2,16-19,201
+Operativni sistemi,Vezbe,SRE,Raf7,15-18,202
+Antic Stefan
+Veb programiranje,Vezbe,PON,Raf5,19-21,304b
+Veb programiranje,Vezbe,UTO,Raf-1,17-19,323
+Imamovic Emir
+Namenski racunarski sistemi,Vezbe,ČET,Raf7,11-14,421
+Cuk Bojana
+Engleski 2,Predavanja,ČET,Kolarac3,17-19,101 102 103
+Engleski 2,Predavanja,PET,Raf21,13-15,121 122
+Engleski 2,Predavanja,ČET,Kolarac3,15-17,123 124
+Engleski 2,Predavanja,PET,Kolarac3,16-18,125 126
+Engleski 2,Predavanja,SRE,Raf11,13-15,127 128
+Engleski 2,Vezbe,SRE,Raf10,17-19,1d1 1d2 1d3 1d4
+Engleski 2,Predavanja,SRE,Raf10,15-17,1d1 1d2 1d3 1d4
+Milovic Njegovan
+Racunarske mreze,Vezbe,SRE,Raf2,16-19,201
+Racunarske mreze,Vezbe,ČET,Raf3,18-21,202
+Racunarske komunikacije,Vezbe,ČET,Raf3,15-18,2s1
+Racunarske komunikacije,Vezbe,UTO,Raf2,15-18,2s2
+Racunarske komunikacije,Vezbe,UTO,Raf3,18-21,2s3
+Tehnologije rutiranja,Vezbe,SRE,Raf5,14-16,321 322 324
+Tehnologije komutiranja,Vezbe,PET,Raf2,14-16,322 324
+Prakticne tehnike zastite u IP mrezama,Vezbe,PET,Raf3,17-19,3s1
+Radivojevic Mirjana
+Tehnologije rutiranja,Predavanja,PET,CET,9-11,321 322 324
+Spasic Nikola
+Digitalni video,Predavanja,SRE,Raf16,10-12,3d3 3d4 3d7 3d8
+Film 2,Predavanja,ČET,Raf13,11-13,3d3 3d5 3d6 3d9
+Film i multimedija,Predavanja,SRE,Raf14,16-19,4d1 4d2
+Dimic Surla Bojana
+Objektno-orijentisano programiranje,Predavanja,PON,Kolarac3,9-11,101 102 103
+Objektno-orijentisano programiranje,Predavanja,PON,Kolarac3,14-16,121 122 123 124
+Objektno-orijentisano programiranje,Predavanja,ČET,Kolarac3,13-15,125 126 127 128
+Funkcionalno programiranje,Predavanja,PON,Kolarac2,11-13,302 307 308
+Stojanovic Visnja
+Ilustracija,Vezbe,PET,Raf14,14-17,1d1 1d2
+Ilustracija,Vezbe,PON,Raf14,14-17,1d3 1d4
+Ilustracija u digitalnoj umetnosti,Vezbe,ČET,Raf16,13-15,3d1 3d3 3d5 3d7
+Stojanovic Mihajlo
+Objektno-orijentisano programiranje,Demonstracije,SRE,Raf-1,17-19,101
+Objektno-orijentisano programiranje,Demonstracije,PET,Raf4,14-16,102
+Objektno-orijentisano programiranje,Demonstracije,PET,Raf4,12-14,103
+Jerotijevic Marija
+Matematicka analiza,Vezbe,SRE,Raf21,14-17,101 102 103
+Matematicka analiza,Vezbe,SRE,Raf21,18-21,121 122 123 124
+Matematicka analiza,Vezbe,PET,Kolarac3,13-16,125 126 127 128
+Radenkovic Zarko
+Objektno-orijentisano programiranje,Demonstracije,ČET,Rg7,9-11,127
+Objektno-orijentisano programiranje,Demonstracije,PET,Rg2,16-18,128
+Mladenovic Jelena
+Interfejs mozak,Vezbe,UTO,Raf7,11-13,306
+Interfejs mozak,Predavanja,PON,Raf20,9-11,306 321 323 324
+Interfejs mozak,Vezbe,UTO,Raf5,13-15,323 321 324
+Pilipovic Dragoljub
+Istorija racunarstva,Predavanja,SRE,Raf9,14-16,3s1 3s2
+Razvoj web aplikacija i servisa,Predavanja,SRE,Raf9,16-19,3s2
+Budimac Stefan
+Razvoj mobilnih aplikacija,Predavanja,PON,Raf6,15-17,304a 304b 305 308
+Razvoj mobilnih aplikacija,Vezbe,ČET,Raf5,15-17,304a 308
+Matovic Vanja
+Objektno-orijentisano programiranje,Vezbe,ČET,Rg7,19-21,122
+Objektno-orijentisano programiranje,Vezbe,ČET,Raf5,13-15,124
+Masinsko ucenje,Vezbe,PET,Raf3,19-21,302 307 308
+Rakocevic Goran
+Uvod u bioinformatiku,Predavanja,PON,Raf3,11-13,303 306
+Preocanin Andjela
+Razvoj infrastrukture i servisa u oblaku,Vezbe,ČET,Raf5,17-19,3s2
+Vasiljevic Jelena
+Genetski algoritmi,Predavanja,UTO,Raf21,13-15,301 302 306
+Neuronske mreze,Predavanja,UTO,Raf21,15-17,323
+Telarovic Rosana
+Oblikovanje enterijera,Predavanja,SRE,Raf14,9-12,2d1 2d2
+Oblikovanje enterijera,Predavanja,PON,Raf16,9-12,2d3
+Bakic Milica
+Objektno-orijentisano programiranje,Vezbe,UTO,Raf7,9-11,121
+Objektno-orijentisano programiranje,Vezbe,PON,Raf2,11-13,123
+Objektno-orijentisano programiranje,Vezbe,ČET,Raf5,9-11,125
+Jovanovic Irena
+Matematicka analiza,Predavanja,ČET,Raf21,13-15,101 102 103
+Matematicka analiza,Predavanja,SRE,Kolarac2,16-18,121 122 123 124
+Matematicka analiza,Predavanja,ČET,Kolarac3,11-13,125 126 127 128
+Djuric Milan
+Ilustracija,Predavanja,ČET,Raf15,11-14,1d1 1d2
+Ilustracija,Predavanja,UTO,Raf15,14-17,1d3 1d4
+Zekic Mladen
+Algebra,Predavanja,SRE,Raf20,15-17,301 302 303 305 306 307
+Algebra,Predavanja,ČET,Raf20,13-15,304a 304b 308
+Najdic Jefimija
+Objektno-orijentisano programiranje,Vezbe,PON,Raf2,16-18,126
+Objektno-orijentisano programiranje,Vezbe,ČET,Rg6,15-17,127
+Objektno-orijentisano programiranje,Vezbe,ČET,Raf-1,17-19,128
+Elezovic Ivan
+Muzicka produkcija 1,Predavanja,ČET,Raf8,14-17,1d1 1d2
+Muzicka produkcija 1,Predavanja,ČET,Raf8,17-20,1d1 1d2
+Muzicka produkcija 1,Predavanja,SUB,Raf8,9-12,1d3 1d4
+Muzicka produkcija 1,Predavanja,PET,Raf8,14-17,1d3 1d4
+Muzicka produkcija 2,Predavanja,SRE,Raf8,17-20,2d1 2d2 2d3
+Muzicka produkcija 2,Predavanja,PET,Raf8,17-20,2d1 2d2 2d3
+Multimedijalni racunarski sistemi 1,Predavanja,PON,Raf8,17-20,3d1 3d2 3d3 3d9
+Multimedijalni racunarski sistemi 1,Predavanja,PON,Raf8,14-17,3d1 3d2 3d3 3d9
+Multimedijalni racunarski sistemi 1,Predavanja,SUB,Raf8,12-15,3d4 3d5 3d6 3d7 3d8
+Multimedijalni racunarski sistemi 1,Predavanja,SRE,Raf8,14-17,3d4 3d5 3d6 3d7 3d8
+Vidakovic Milan
+Veb programiranje,Predavanja,PET,Kolarac3,11-13,303 304a 304b 305 323
+Dotlic Emilija
+Uvod u bioinformatiku,Vezbe,PET,Rg6,17-19,303 306
+Stetin Darko
+Digitalni video,Vezbe,PET,Raf16,17-19,3d3 3d4 3d7 3d8
+Film 2,Vezbe,SRE,Raf16,17-19,3d3 3d5 3d6 3d9
+Film i multimedija,Vezbe,PON,Raf14,17-20,4d1 4d2
+Jonic Teodora
+Prostor i oblik,Vezbe,UTO,Raf14,17-20,1d1 1d2
+Prostor i oblik,Vezbe,PET,Raf14,17-20,1d3 1d4
+Multimedijalni projekti 2,Vezbe,ČET,Raf16,18-20,3d2 3d7
+Multimedijalni projekti 2,Vezbe,ČET,Raf14,16-18,3d4 3d5 3d6 3d9 3d1
+Markovic Nemanja
+Razvoj web aplikacija i servisa,Vezbe,ČET,Raf7,19-21,3s2
+Kovinic Vanja
+Operativni sistemi,Vezbe,SRE,Raf3,17-20,222
+Operativni sistemi,Vezbe,PET,Raf-1,16-19,223
+Martinovic Nikola
+Bezbednost mreza,Vezbe,UTO,Rg2,17-19,321 322
+Mudrinic Marko
+Softversko inzenjerstvo,Vezbe,ČET,Rg6,17-20,401 402b
+Softversko inzenjerstvo,Vezbe,PET,Raf7,12-15,403 402a
+Topuzovic Filip
+Veb dizajn,Predavanja,PET,Raf14,9-11,3d1 3d2 3d8 3d9
+Veb dizajn,Vezbe,PON,Raf14,12-14,3d1 3d2 3d8 3d9
+Dizajn i informacione tehnologije 2,Vezbe,UTO,Raf16,14-16,3d2 3d3 3d7
+Dizajn i informacione tehnologije 2,Predavanja,UTO,Raf16,9-11,3d2 3d7 3d3
+Dizajn i informacione tehnologije 2,Vezbe,UTO,Raf14,12-14,3d4 3d5 3d6 3d8 3d1 3d9
+Dizajn i informacione tehnologije 2,Predavanja,PON,Raf14,10-12,3d4 3d5 3d6 3d8 3d9 3d1
+Jovanovic Mladen
+Objektno-orijentisano programiranje,Demonstracije,PON,Raf7,16-18,125
+Objektno-orijentisano programiranje,Demonstracije,PET,Rg2,18-20,126
+Operativni sistemi,Vezbe,UTO,Raf3,15-18,203
+Operativni sistemi,Vezbe,SRE,Rg7,18-21,204
+Bojovic Petar
+Bezbednost mreza,Predavanja,UTO,Raf11,15-17,321 322
+Tehnologije komutiranja,Predavanja,PET,Raf6,12-14,322 324
+Prakticne tehnike zastite u IP mrezama,Predavanja,PET,Raf6,14-17,3s1
+Vrbica-Matejic Vera
+Engleski 2,Predavanja,PET,Raf20,16-18,1s1 1s2
+Engleski 2,Predavanja,PET,Raf20,14-16,1s3 1s4
+Koturanovic Aleksandar
+Interaktivna grafika,Vezbe,SRE,Raf14,12-14,3d2 3d4 3d6 3d8
+Ciganovic Igor
+Masinsko ucenje,Vezbe,SRE,Rg7,11-13,301 305
+Funkcionalno programiranje,Vezbe,SRE,Rg7,13-15,302 307 308
+Ognjanovic Ivana
+Muzicka produkcija 2,Vezbe,PON,Muzicki,9-12,2d1
+Muzicka produkcija 2,Vezbe,UTO,Muzicki,18-21,2d2
+Muzicka produkcija 2,Vezbe,UTO,Muzicki,12-15,2d3
+Multimedijalni racunarski sistemi 2,Vezbe,PON,Muzicki,12-15,4d1
+Multimedijalni racunarski sistemi 2,Vezbe,SRE,Muzicki,13-16,4d2
+Prvulovic Petar
+Osnovi racunarskih sistema,Vezbe,PON,Kolarac3,11-13,101 102 103
+Osnovi racunarskih sistema,Vezbe,PON,Kolarac3,16-18,121 122 123 124
+Osnovi racunarskih sistema,Vezbe,SRE,Kolarac3,9-11,125 126 127 128
+Programiranje web aplikacija,Vezbe,UTO,Raf3,12-15,2s1
+Programiranje web aplikacija,Vezbe,PON,Raf7,13-16,2s2
+Programiranje web aplikacija,Vezbe,UTO,Rg7,15-18,2s3
+Interakcija covek-racunar,Vezbe,SRE,Raf7,11-13,304a 302
+Interakcija covek-racunar,Vezbe,SRE,Raf7,13-15,304b 301 303
+Interakcija covek-racunar,Vezbe,PON,Raf2,9-11,305 307
+Interakcija covek-racunar,Vezbe,UTO,Raf3,9-11,306 308
+Pernar Veljko
+Racunarske mreze,Vezbe,SRE,Raf5,11-14,221
+Racunarske mreze,Vezbe,PET,Rg7,17-20,222
+Racunarske mreze,Vezbe,SRE,Raf5,17-20,223
+Bojic Milan
+Operativni sistemi,Vezbe,PON,Raf11,16-19,205
+Operativni sistemi,Vezbe,SRE,Rg2,17-20,221
+Popovic Snezana
+Baze podataka,Predavanja,SRE,Raf20,12-15,201 202 203
+Baze podataka,Predavanja,SRE,Kolarac3,15-18,204 205
+Kukic  Rastko
+Multimedijalni projekti 2,Predavanja,ČET,Raf14,18-20,3d1 3d4 3d5 3d6 3d9
+Multimedijalni projekti 2,Predavanja,ČET,Raf16,15-17,3d2 3d7
+Stanojevic Sofija
+Konkurentni i distribuirani sistemi,Vezbe,SRE,Raf2,9-12,401
+Konkurentni i distribuirani sistemi,Vezbe,UTO,Raf7,13-16,402a 402b
+Konkurentni i distribuirani sistemi,Vezbe,PET,Raf7,15-18,403
+Jevtic Ivan
+Dizajn i analiza algoritama,Vezbe,PON,Raf20,19-21,201 202 203
+Petrovic David
+Algebra,Vezbe,ČET,Kolarac1,14-16,301 302 303 305 306 307
+Algebra,Vezbe,ČET,Raf6,17-19,304a 304b 308
+Martic Goran
+Razvoj infrastrukture i servisa u oblaku,Predavanja,PET,Raf2,9-12,3s2
+Stojanovic Danica
+Pismo i tipografija,Vezbe,UTO,Raf14,14-17,2d1 2d2
+Pismo i tipografija,Predavanja,ČET,Raf15,15-17,2d1 2d2 2d3
+Pismo i tipografija,Vezbe,SRE,Raf16,14-17,2d3
+Ilustracija u digitalnoj umetnosti,Predavanja,SRE,Raf16,12-14,3d1 3d3 3d5 3d7
+Interaktivna grafika,Predavanja,ČET,Raf14,13-15,3d2 3d4 3d6 3d8
+Radenkovic Milos
+Elektronsko poslovanje,Predavanja,PET,Raf6,9-12,2s1 2s2 2s3
+Softversko inzenjerstvo,Predavanja,UTO,Raf6,9-12,401 402a 403 402b
+Vasiljkovic Sanja
+Integrisani informacioni sistemi,Vezbe,PON,Raf7,9-11,304a 303
+Integrisani informacioni sistemi,Vezbe,UTO,Raf5,11-13,304b
+Dejanovic Lazar
+Objektno-orijentisano programiranje,Demonstracije,ČET,Raf-1,13-15,123
+Objektno-orijentisano programiranje,Demonstracije,ČET,Rg7,11-13,124
+Markovic Mirjana
+Pismeno i usmeno izrazavanje,Vezbe,PET,Raf21,9-11,101 102 103
+Pismeno i usmeno izrazavanje,Vezbe,ČET,Raf21,17-19,121 122 123 124
+Pismeno i usmeno izrazavanje,Vezbe,PET,Raf21,11-13,125 126 127 128
+Pismeno i usmeno izrazavanje,Vezbe,ČET,Raf6,14-16,1s1 1s2
+Pismeno i usmeno izrazavanje,Vezbe,ČET,Raf21,11-13,1s3 1s4
+Jovanovic Milos
+Osnovi racunarskih sistema,Predavanja,PET,Raf21,17-20,121 122 123 124
+Osnovi racunarskih sistema,Predavanja,PON,Raf21,18-21,125 126 127 128
+Djuricic Ana
+Prostor i oblik,Predavanja,SRE,Raf15,11-14,1d1 1d2
+Prostor i oblik,Predavanja,PON,Raf15,9-12,1d3 1d4
+Oblikovanje enterijera,Vezbe,SRE,Raf14,14-16,2d1 2d2
+Oblikovanje enterijera,Vezbe,PON,Raf16,12-14,2d3
+Mijatovic Igor
+Poslovni softver,P i V,PON,Raf4,13-16,1s1
+Poslovni softver,P i V,SRE,Raf4,14-16,1s1
+Poslovni softver,P i V,UTO,Raf4,12-15,1s2
+Poslovni softver,P i V,PON,Raf4,9-11,1s2
+Poslovni softver,P i V,SRE,Raf4,9-12,1s3
+Poslovni softver,P i V,PON,Raf4,11-13,1s3
+Poslovni softver,P i V,UTO,Raf4,9-12,1s4
+Poslovni softver,P i V,SRE,Raf4,12-14,1s4
+Interakcija covek-racunar,Vezbe,ČET,Raf4,13-15,2s1
+Interakcija covek-racunar,Vezbe,ČET,Raf4,11-13,2s2
+Interakcija covek-racunar,Vezbe,ČET,Raf4,9-11,2s3
+Tomic Milan
+Objektno-orijentisano programiranje,Vezbe,ČET,Raf2,11-13,101
+Objektno-orijentisano programiranje,Vezbe,PET,Raf2,12-14,102
+Objektno-orijentisano programiranje,Vezbe,ČET,Raf-1,15-17,103
+Genetski algoritmi,Vezbe,PET,Rg7,15-17,301 302 306
+Teorija algoritama, automata i jezika,Predavanja,SRE,Kolarac2,12-16,401 402a 403 402b
