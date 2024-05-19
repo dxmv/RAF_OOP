@@ -1,0 +1,7 @@
+Paketi sa nepoznatim polazistem (0):
+Paketi sa nepoznatim odredistem  (3):
+Leskovac-X, LK14214
+Loznica-X, LP13539
+Loznica-X, LS12214
+Sredjeni paketi (1):
+Novi Sad-Leskovac, NL14691

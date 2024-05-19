@@ -1,0 +1,33 @@
+Paketi sa nepoznatim polazistem (12):
+X-Cacak,JC14726
+X-Jagodina,SJ11262
+X-Kikinda,PK12401
+X-Leskovac,NL14691
+X-Nis,PN11793
+X-Sombor,SS11455
+X-Sombor,US11523
+X-Subotica,NS13356
+X-Subotica,SS13009
+X-Uzice,JU10950
+X-Uzice,PU12592
+X-Vrsac,PV10368
+Paketi sa nepoznatim odredistem (15):
+Beograd-X,BP13273
+Beograd-X,BP14024
+Leskovac-X,LK14214
+Loznica-X,LP13539
+Loznica-X,LS12214
+Nis-X,NU10952
+Novi Pazar-X,NC10444
+Novi Pazar-X,NK14767
+Novi Sad-X,NN10092
+Novi Sad-X,NV13473
+Pristina-X,PK14365
+Pristina-X,PZ13759
+Uzice-X,UP10252
+Vrsac-X,VS14335
+Zrenjanin-X,ZN13598
+Sredjeni paketi (3):
+Pancevo-Sombor,PS14329
+Pozarevac-Zrenjanin,PZ11683
+Sabac-Jagodina,SJ14740
