@@ -1,0 +1,34 @@
+Spremani paketi (12):
+SS14657, Sombor - Sabac 
+SP10003, Sremska Mitrovica - Pozarevac 
+NP11495, Nis - Pirot 
+SS10020, Sabac - Sombor 
+BV13371, Beograd - Valjevo 
+SS11485, Smederevo - Smederevo 
+LK12854, Leskovac - Kikinda 
+SK11364, Subotica - Kraljevo 
+BK14857, Bor - Kikinda 
+NK13901, Novi Pazar - Kragujevac 
+VN13448, Vrsac - Nis 
+ZP12343, Zajecar - Prokuplje 
+Poslati paketi (17):
+ZP10968, Zrenjanin - Prokuplje 
+LS10236, Loznica - Smederevo 
+SN13944, Subotica - Novi Sad 
+SV13588, Sremska Mitrovica - Vrsac 
+KU14913, Kragujevac - Uzice 
+PP10867, Pirot - Prokuplje 
+PL11966, Pristina - Loznica 
+KP14364, Kikinda - Pozarevac 
+VU13529, Vranje - Uzice 
+PU13707, Pozarevac - Uzice 
+BS13363, Beograd - Smederevo 
+KS11618, Krusevac - Sremska Mitrovica 
+LS11961, Loznica - Sremska Mitrovica 
+PS14012, Pristina - Sabac 
+KU11127, Kraljevo - Uzice 
+KS13066, Kikinda - Sombor 
+KL14142, Kikinda - Loznica 
+Primljeni paketi (0):
+Vraceni paketi (1):
+PN12911, Pozarevac - Nis 
