@@ -1,0 +1,23 @@
+Afrika:8
+Antarktik:0
+Australija:12
+Azija:8
+Evropa:25
+Juzna Amerika:4
+Severna Amerika:5
+--------
+Australija:12
+Egipat:8
+Francuska:7
+Italija:5
+Kina:4
+Nemacka:4
+Spanija:4
+Grcka:3
+Indija:3
+Brazil:3
+Kanada:3
+Srbija:2
+SAD:2
+Argentina:1
+Japan:1
